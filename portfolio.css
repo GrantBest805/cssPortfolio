@@ -1,0 +1,128 @@
+.container{
+  height:1010px;
+  width: 980px;
+  background: radial-gradient(#250f15, #70535f);
+
+}
+.header{
+  background-color: #f8f8f8;
+  width: 980px;
+  height: 60px;
+}
+.box0{
+  display: inline-block;
+  /*height: 260px;
+  width: 390px;
+  padding-top: 25px;
+  padding-left: 20px;*/
+
+
+}
+.girl{
+  margin-top: 25px;
+  margin-left: 25px;
+  height: 260px;
+  width: 390px;
+  border: grey solid;
+
+}
+.box1{
+  margin-top: 25px;
+  display: inline-block;
+  background-color: #f8f8f8;
+  height: 265px;
+  width: 505px;
+  margin-left: 25px;
+  vertical-align: top;
+}
+.about{
+  width: 505px;
+  height: 40px;
+  background-color: grey;
+  margin-top: 0px;
+  color: white;
+
+}
+.box2{
+  display: inline-block;
+  margin-left: 25px;
+  margin-top: 25px;
+  width: 290px;
+
+  background-color: #f8f8f8
+
+
+}
+.box3{
+  display: inline-block;
+  margin-top: 25px;
+  width: 290px;
+
+  background-color: #f8f8f8;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+.box4{
+  display: inline-block;
+  margin-top: 25px;
+  width: 290px;
+
+  background-color: #f8f8f8;
+}
+.box2, .box3, .box4{
+  height: 600px;
+  vertical-align: top;
+  text-align: center;
+
+
+}
+.footbar{
+  background-color: #f8f8f8;
+  width: 980px;
+  height: 80px;
+  margin-top: 25px;
+  text-align: center;
+
+}
+.foottext{
+
+  height: 80px;
+  /*width: 300px;*/
+
+}
+.footimage{
+  height: 25px;
+  width: 25px;
+}
+h3{
+  display: inline-block;
+  margin-top: 0;
+  padding-top: 8px;
+  background: linear-gradient(lightgrey, #93919d, lightgrey);
+  width: 290px;
+  height: 35px;
+  color: white;
+
+}
+img{
+  width: 45px;
+  height: 45px;
+
+}
+.midpics{
+  margin: 0;
+  width: 290px;
+  height: 140px;
+
+}
+p{
+  margin-left: 15px;
+  margin-right: 15px;
+  font-size: 15px;
+}
+.tech1{
+  margin-top: 47px;
+}
+.tech2{
+  margin-top: 33px;
+}
